@@ -27,6 +27,14 @@ public static void cube(int num1,int num2){
 	System.out.println(num1*num1*num1);
 
 }
+
+public static void masterfun1(int num1,int num2){
+	System.out.println(num1*num1*num1);
+}
+
+public static void masterfun2(int num1,int num2){
+	System.out.println(num1*num1*num1);
+}
 	
 
 }
